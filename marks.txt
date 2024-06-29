@@ -1,0 +1,1 @@
+{"s101": {"name": "sachin", "marks": [40, 45, 56]}, "s102": {"name": "ravi", "marks": [40, 45, 56]}, "s103": {"name": "deepratan", "marks": [40, 45, 56]}, "s104": {"name": "gaurav", "marks": [40, 45, 56]}, "s105": {"name": "vansh", "marks": [40, 45, 56]}, "s106": {"name": "chitrakshi", "marks": [40, 45, 56]}}
